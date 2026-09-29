@@ -1,3 +1,4 @@
+<!-- -->
 # Hi there 👋
 
 I am a **Data Analyst, Data Engineer, and Technical Content Developer** with over 7 years of global remote experience turning raw data into insight and education. I specialize in web analytics architectures, end-to-end data pipelines, BI dashboarding, and breaking down highly complex technical tools for SaaS audiences. 
