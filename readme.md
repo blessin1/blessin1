@@ -1,4 +1,3 @@
-```
 # 👋 Hi, I'm Blessing
 
 ### Data Analyst · Data Engineer · Technical Content Developer · SEO Content Specialist
