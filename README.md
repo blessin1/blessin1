@@ -41,6 +41,6 @@ Leveraging my hands-on data and research background, I create high-quality techn
 
 If you are looking for a remote Data Analyst, Data Engineer, BI Developer, Market Researcher, or Analytics Content Specialist / Ghostwriter, let's connect:
 
-[(https://www.linkedin.com/in/blessing-o/)]
-[(https://bit.ly/3WgUDjf)]
+[![LinkedIn](https://www.linkedin.com/in/blessing-o/)]
+[![Upwork](https://bit.ly/3WgUDjf)]
 
