@@ -1,4 +1,3 @@
-<!-- -->
 ## Hi there 👋
 
 I am a **Data Analyst, Data Engineer, and Technical Content Developer** with over 7 years of global remote experience turning raw data into insight and education. I specialize in web analytics architectures, end-to-end data pipelines, BI dashboarding, and breaking down highly complex technical tools for SaaS audiences. 
@@ -42,6 +41,12 @@ Leveraging my hands-on data and research background, I create high-quality techn
 
 If you are looking for a remote Data Analyst, Data Engineer, BI Developer, Market Researcher, or Analytics Content Specialist / Ghostwriter, let's connect:
 
-[![LinkedIn](https://www.linkedin.com/in/blessing-o/)]
-[![Upwork](https://bit.ly/3WgUDjf)]
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/blessing-o/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bit.ly/3WgUDjf" target="_blank">
+    <img src="https://shields.io" alt="Upwork" />
+  </a>
+</p>
