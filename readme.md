@@ -43,10 +43,10 @@ If you are looking for a remote Data Analyst, Data Engineer, BI Developer, Marke
 
 <p align="left">
   <a href="https://www.linkedin.com/in/blessing-o/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://bit.ly/3WgUDjf" target="_blank">
-    <img src="https://shields.io" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </p>
