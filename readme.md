@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Blessing
 
-### Data Analyst · Data Engineer · Technical Content Developer · SEO Content Specialist
+### Data Analyst · Data Engineer · Technical Content Developer · SEO Specialist
 
-I help businesses turn **raw data into actionable insights, reliable analytics systems, and search-optimized technical content**.
+I help businesses turn **raw data into actionable insights, reliable analytics systems, and search-optimized content**.
 
-With 7+ years of global remote experience, I specialize in **web analytics, data engineering, business intelligence, market research, SEO content, and technical writing** for SaaS, technology, and data-driven teams.
+With 7+ years of global remote experience, I specialize in **web analytics, data engineering, business intelligence, market research, SEO, and technical writing** for SaaS, technology, and data-driven teams.
 
 ---
 
