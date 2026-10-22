@@ -4,7 +4,7 @@
 
 I help businesses turn **raw data into actionable insights, reliable analytics systems, and search-optimized content**.
 
-With 7+ years of global remote experience, I specialize in **web analytics, data engineering, business intelligence, market research, SEO, and technical writing** for SaaS, technology, and data-driven teams.
+With 6+ years of global remote experience, I specialize in **web analytics, data engineering, business intelligence, market research, SEO, and technical writing** for SaaS, technology, and data-driven teams.
 
 ---
 
